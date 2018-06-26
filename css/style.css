@@ -1,1 +1,11 @@
 /* add CSS class and element and selectors here */
+body {
+  background-color:#F0F8FF;
+  font-size: 200%
+}
+
+.isabellaishere {
+  font-family: Monospace;
+  font-size: 500%;
+  border: 100px dotted #FFF0F8;
+}
